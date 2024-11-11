@@ -8,7 +8,6 @@ import About from '@/components/About';
 import AOS from "aos"
 import "aos/dist/aos.css";
 import { useEffect } from 'react';
-import Aos from 'aos';
 
 export default function Home() {
   useEffect(() => {
